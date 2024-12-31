@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701710593 source:c:\users\diaz_\onedrive\uoc dam\fp038-fundamentos de programacion\aa4. tratamiento de secuencias ii\aa4(s3)_diazdevia_diegoarmando_caso1\main.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+
